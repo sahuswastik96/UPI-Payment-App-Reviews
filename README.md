@@ -1,25 +1,31 @@
-# UPI-Payment-App-Reviews
 # UPI Payment Apps Review Analysis
-
-![Project Logo](link_to_your_logo.png)
 
 Welcome to the **UPI Payment Apps Review Analysis** project repository! In this project, we dive deep into the user experiences of three prominent UPI payment apps: Google UPI, Paytm, and PhonePay. Our objective is to uncover insights regarding usability, user interface, technical glitches, and overall customer satisfaction. Through exploratory data analysis (EDA), we aim to provide valuable insights to these companies for enhancing their services.
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Data Preprocessing](#data-preprocessing)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
-  - [Google UPI](#eda-insights-for-google-company)
-  - [Paytm](#eda-insights-for-paytm-company)
-  - [PhonePay](#eda-insights-for-phonepay-company)
-  - [Overall Comparison](#overall-review-of-all-three-companies)
-- [Conclusion](#conclusion)
-- [Getting Started](#getting-started)
+- Introduction
+- Getting Started
+- Data Preprocessing
+- Exploratory Data Analysis
+  - Google UPI
+  - Paytm
+  - PhonePay
+  - Overall Comparison
+- Conclusion
+
 
 ## Introduction
 
 Modern payment solutions have evolved with the advent of UPI-based apps, making transactions seamless for users. However, understanding user sentiment and experience is crucial for continuous improvement. In this project, we analyze customer feedback and ratings to gain insights into user perceptions of Google UPI, Paytm, and PhonePay.
+
+## Getting Started
+
+To get started with this project, follow these steps:
+
+1. Dataset : <https://www.kaggle.com/datasets/komalkhetlani/upi-payment-apps-review-google-play-store>
+2. Clone this repository: `git clone https://github.com/sahuswastik96/UPI-Payment-App-Reviews.git`
+3. Run Jupyter Notebook: 'eda_on_upi_payment_apps_review.ipynb'
 
 ## Data Preprocessing
 
@@ -61,13 +67,4 @@ We conduct exploratory data analysis (EDA) individually for each company to unco
 
 Through our in-depth analysis, we offer actionable insights for these UPI payment giants. **Paytm** stands out as a leader, with **PhonePay** in close pursuit, and **Google** poised for improvements. Our analysis offers a snapshot of user perceptions, equipping these companies to fine-tune their services.
 
-## Getting Started
-
-To get started with this project, follow these steps:
-
-1. Clone this repository: `git clone https://github.com/your-username/upi-payment-review-analysis.git`
-2. Run Jupyter Notebook: ''
-
 ---
-
-Feel free to explore the details of our analysis in the notebooks and join us on the journey to understanding user sentiments in the realm of UPI payment apps! 🚀
