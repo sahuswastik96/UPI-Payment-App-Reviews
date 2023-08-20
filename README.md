@@ -23,7 +23,7 @@ Modern payment solutions have evolved with the advent of UPI-based apps, making 
 
 To get started with this project, follow these steps:
 
-1. Dataset : <https://www.kaggle.com/datasets/komalkhetlani/upi-payment-apps-review-google-play-store>
+1. **Link to the Dataset:** [UPI Dataset on Kaggle](https://www.kaggle.com/datasets/komalkhetlani/upi-payment-apps-review-google-play-store)
 2. Clone this repository: `git clone https://github.com/sahuswastik96/UPI-Payment-App-Reviews.git`
 3. Run Jupyter Notebook: 'eda_on_upi_payment_apps_review.ipynb'
 
